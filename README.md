@@ -71,8 +71,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<br>
-<br>
+
 <h3 align="left">My Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-jaysingpure&show_icons=true&locale=en" alt="pratik-jaysingpure" /></p>
 
