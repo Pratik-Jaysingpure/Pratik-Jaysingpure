@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/pratik-jaysingpure/" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/linkedin-icon_488108-5.jpg?w=740" alt="https://www.linkedin.com/in/pratik-jaysingpure/" height="30" width="40" /></a>
  
- <p align="left"> <a href="https://pratik-jaysingpure.github.io/portfolio/" target="blank"><img align="center" src="https://icon-library.com/images/_on_me_1307010.png" height="30" width="40" /></a> </p>
+ <a href="https://pratik-jaysingpure.github.io/portfolio/" target="blank"><img  align="left" src="https://icon-library.com/images/_on_me_1307010.png" height="30" width="40" /></a> 
 
 </p>
 
