@@ -29,6 +29,28 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [https://pratik-jaysingpure.github.io/portfolio/](https://pratik-jaysingpure.github.io/portfolio/)
 
 - 📫 How to reach me **pratikjaysingpure9@gmail.com**
+ 
+- 🔭 I’m currently studying in G H Raisoni University Amravati 
+- 🌱 I’m currently learning Full Stack Development  and MongoDB
+- 👯 I’m looking to collaborate on Software Development
+- 💬 Ask me about [myself](https://pratik-jaysingpure.github.io/portfolio/)
+- 📫 How to reach me: pratikjaysingpure9@gmail.com
+- 👨‍💻 Check out my hosted web projects  
+   - [My Portfolio ](https://pratik-jaysingpure.github.io/portfolio/)
+   - [E-Learn ](https://pratik-jaysingpure.github.io/E-learn/)  
+   - [Tip Calculator](https://pratik-jaysingpure.github.io/Tip-Calculator/) 
+   - [Calculator](https://pratik-jaysingpure.github.io/calculator/)
+   - [Digital Clock](https://pratik-jaysingpure.github.io/digital-clock/)
+<ul><ul><li><details>
+<summary>Load More</summary>
+     <ul>
+    <li><a href="https://pratik-jaysingpure.github.io/to-do/">To-DO List</a></li>
+    <li><a href="https://pratik-jaysingpure.github.io/digital-clock/">Digital Clock </a></li>
+    <li><a href="https://pratik-jaysingpure.github.io/colours/">Colours</a></li>
+    <li><a href="https://pratik-jaysingpure.github.io/e-bike/">E-Bike</a></li>
+
+   </ul>
+</details></li></ul></ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
