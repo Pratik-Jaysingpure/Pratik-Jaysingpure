@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Pratik-Jaysingpure/Pratik-Jaysingpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +5,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Pratik Jaysingpure</h1>
-<h3 align="center">A passionate frontend developer from India Recent Graduate of G H Raisoni University with an attitude to work in a dynamic environment that uses my skills and expertise in process of growth and development while allowing me to learn and enrich my competencies</h3>
+<h3 align="center">A passionate Frontend Developer from India Recent Graduate of G H Raisoni University with an attitude to work in a dynamic environment that uses my skills and expertise in process of growth and development while allowing me to learn and enrich my competencies</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
@@ -30,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **pratikjaysingpure9@gmail.com**
  
-- 🔭 I’m currently studying in G H Raisoni University Amravati 
+- 🔭 I’m currently studying in G H Raisoni University.
 - 🌱 I’m currently learning Full Stack Development  and MongoDB
 - 👯 I’m looking to collaborate on Software Development
 - 💬 Ask me about [myself](https://pratik-jaysingpure.github.io/portfolio/)
