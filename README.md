@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Pratik Jaysingpure</h1>
-<h3 align="center">A passionate Frontend Developer from India Recent Graduate of G H Raisoni University with an attitude to work in a dynamic environment that uses my skills and expertise in process of growth and development while allowing me to learn and enrich my competencies</h3>
+<h3 align="center">AWS Certified DevOps Engineer with 2+ years of hands-on experience in cloud infrastructure, CI/CD 
+pipelines, and system automation. Skilled in AWS, Docker, Kubernetes, Jenkins, Terraform, and 
+Linux. Proficient in deploying scalable applications using Agile and DevOps best practices. Proven 
+ability to reduce deployment time by 40% and ensure 99% system uptime. Actively seeking 
+opportunities to drive innovation and operational excellence in cloud-native environments.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
